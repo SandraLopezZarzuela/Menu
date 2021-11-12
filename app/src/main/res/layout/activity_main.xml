@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/purple_200">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10sp"
+            android:text="MENU"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/purple_200">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/checkbox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verCheckBoxDemo"
+                android:text="CheckBox"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/field"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verFieldDemo"
+                android:text="Field"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/icon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verFleetingImage"
+                android:text="Image"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/label"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verLabelDemo"
+                android:text="Label"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/layoutdemo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verLinearLayoutDemo"
+                android:text="LinearLayout"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/overlap"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verOverlapDemo"
+                android:text="Overlap"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/radiobutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verRadioDemo"
+                android:text="RadioButton"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/relative"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verRelativeLayoutDemo"
+                android:text="RelativeLayout"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/scrollview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verScrollViewDemo"
+                android:text="ScrollView"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/tableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verTabulaRasa"
+                android:text="TableLayout"
+                tools:ignore="MissingConstraints" />
+
+            <Button
+                android:id="@+id/weights"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="verBoxModel"
+                android:text="BoxModel"
+                tools:ignore="MissingConstraints" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

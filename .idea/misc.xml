@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/assigninglabel.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/boxmodel.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/checkbox.xml" value="0.2375" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/checkboxdemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/fielddemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/fleetingimages.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/linearlayout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/linearlayoutdemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/overlapdemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/radiobutton.xml" value="0.32055961070559613" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/radiobuttondemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/relativelayout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/relativelayoutdemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/scrollview.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/scrollviewdemo.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/tablelayout.xml" value="0.2375" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/tabularasa.xml" value="0.1" />
+        <entry key="..\:/Users/lzsan/AndroidStudioProjects/Menu/app/src/main/res/layout/weights.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
